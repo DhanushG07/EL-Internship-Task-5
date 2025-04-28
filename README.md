@@ -30,4 +30,6 @@ We use Python libraries like `Pandas, Seaborn, and Matplotlib` to perform statis
 - Passengers in 1st class had the highest survival rate, indicating social status influenced survival.
 - Fare distribution is heavily right-skewed. Majority paid less than 100, but a few outliers paid extremely high fares.
 
-## 
+## Author 
+**Name**: Dhanush   
+**Date**: 28th April 2025
