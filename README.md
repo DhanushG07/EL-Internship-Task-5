@@ -21,6 +21,12 @@ We use Python libraries like `Pandas, Seaborn, and Matplotlib` to perform statis
 - Younger passengers survived at a higher rate.
   
 ## Summary of Key Insights:
+- - Majority of passengers did not survive (`around 61% died`).
+- Females had a much higher survival rate than males.
+- Passengers from 1st class had better chances of survival.
+- Younger passengers (`especially kids`) survived more.
+- People who paid higher fares had higher survival probability.
+- Age has a right-skewed distribution with some missing values.
 - Younger children (`age <10`) had a higher chance of survival compared to older adults.
 - Survivors generally paid higher fares compared to non-survivors.
 - Passengers who embarked from Cherbourg (`C`) had a higher survival rate compared to Southampton (`S`) and Queenstown (`Q`).
